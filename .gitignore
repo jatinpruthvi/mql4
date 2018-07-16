@@ -4,11 +4,9 @@
 # Build results
 [Dd]ebug/
 
-*.dll
 *.ex4
 
 Images/
-Include/
 Logs/
 Projects
 tester/
