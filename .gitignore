@@ -5,6 +5,7 @@
 [Dd]ebug/
 
 *.ex4
+*.dat
 
 Images/
 Logs/
