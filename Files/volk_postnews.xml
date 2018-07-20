@@ -3,22 +3,13 @@
 	<event>
 		<title>CAD CPI e Core retail sales</title>
 		<country>?</country>
-		<date><![CDATA[06-22-2018]]></date>
+		<date><![CDATA[07-20-2018]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Holiday]]></impact>
 		<forecast />
 		<previous />
 		<active>S</active>
 	</event>
-	<event>
-		<title>test</title>
-		<country>NZD</country>
-		<date><![CDATA[06-22-2018]]></date>
-		<time><![CDATA[3:20pm]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous><![CDATA[2.8%]]></previous>
-		<active>S</active>
-	</event>
+	
 
 </weeklyevents>
